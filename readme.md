@@ -1,4 +1,4 @@
-#basic flask-docker hello world on debian
+# Basic flask based hello world in docker
 
 To build, `docker build -t flask-hello .`
 
